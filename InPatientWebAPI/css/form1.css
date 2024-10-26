@@ -1,0 +1,24 @@
+﻿.btn
+{
+    border: 0px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: #2778c8;
+}
+
+    .btn:hover
+    {
+        background-color: #00689d;
+    }
+
+.font
+{
+    font-family: 'Segoe UI';
+}
+.txt
+{
+    width: 225px;
+    padding: 3px;
+ 
+}
