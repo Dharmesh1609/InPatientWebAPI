@@ -1,4 +1,4 @@
-This application, InPatientWebAPI, is a web-based interface built in ASP.NET that fetches and displays healthcare data from the CMS (Centers for Medicare & Medicaid Services) API. It provides an interactive platform for users to explore inpatient payment data based on Diagnosis Related Group (DRG) descriptions, provider information, and state data.
+This application is a web-based interface built in ASP.NET that fetches and displays healthcare data from the CMS (Centers for Medicare & Medicaid Services) API. It provides an interactive platform for users to explore inpatient payment data based on Diagnosis Related Group (DRG) descriptions, provider information, and state data.
 
 Key Features:
 Data Fetching and Display: The application retrieves data in pages from the CMS API, deserializes it into a list of CMSData objects, and displays it in a grid format (GridView) based on user-selected filters.
